@@ -1,5 +1,7 @@
 {
   "name": "devgetuid",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
